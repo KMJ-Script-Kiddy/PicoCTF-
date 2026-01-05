@@ -2,7 +2,7 @@
 
 - Easy
 
--- General Skills - Big Zip
+General Skills - Big Zip
   * Hints  : grep
   * Reason : grep 명령어 사용에 익숙하지 않다.
     - Link : https://ahmedheltaher.github.io/ctf-writeups/sites/picoCTF/General-Skills/Big-Zip.html
