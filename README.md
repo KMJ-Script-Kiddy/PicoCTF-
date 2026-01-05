@@ -1,16 +1,18 @@
 # PicoCTF - 혼자 힘으로 못 푼 문제들
 
-General Skills (Easy) - Big Zip
+- Easy
+
+General Skills - Big Zip
   * Hints  : grep
   * Reason : grep 명령어 사용에 익숙하지 않다.
     - Link : https://ahmedheltaher.github.io/ctf-writeups/sites/picoCTF/General-Skills/Big-Zip.html
 
-General Skills (Easy) - Blame Game
+General Skills - Blame Game
   * Hints  : git log git log OR git help
   * Reason : git log 명령어를 사용해본 적 없다.
     - Link : https://github.com/noamgariani11/picoCTF-2024-Writeup/blob/main/General%20Skills/Blame-Game.md
 
-Forensics (Easy) - Can You See
+Forensics - Can You See
   * Hints  : exiftool, base64
   * Reason : exiftool 명령어에 익숙하지 않다.
     - Link : https://github.com/noamgariani11/picoCTF-2024-Writeup/blob/main/Forensics/CanYouSee.md
